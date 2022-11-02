@@ -1,0 +1,4 @@
+
+name = os.getenv('USER')
+lush.setprompt(name .. '% ');
+
